@@ -63,3 +63,6 @@ Tried to publish a visual representation of the goto markers, but the landmark h
 ## Future Work
 - Add special landmark labels that, when navigated to, trigger some function.
     - For example, navigating to a landmark labeled `kobuki_dock` triggers the auto_dock sequence.
+
+## Source 
+- [Interbotix ROS](https://github.com/Interbotix/interbotix_ros_toolboxes/tree/main/interbotix_common_toolbox/interbotix_landmark_modules)
