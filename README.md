@@ -11,6 +11,9 @@ Landmarks are defined using a simple configuration file (example [here](landmark
     - **label:** - Name given to the landmark
     - **set:** - Whether or not the AprilTag has been detected. False by default. *Do not set this manually*.
 
+## Demonstration
+- The video demonstration can be found [here](https://www.youtube.com/watch?v=0F6m-Lb1GrQ).
+
 ## Structure
 Below is a list and short description of each helper module. Over time, this list will grow to include others.
 
