@@ -1,5 +1,5 @@
 # landmark-based-autonomous-navigation-in-ros
-Predefined Landmarks (vertical or horizontal aruco markers) will be treated as points in ROS based robots to navigate to the destination avoiding obstacles.
+Predefined Landmarks (vertical or horizontal aruco markers) will be treated as points for ROS based robots to navigate to the destination avoiding obstacles.
 ## Overview
 This package contains Python modules and scripts, and supporting level ROS nodes to perform tasks using the AprilTag fiducals as landmarks. Using the landmarks along with a camera, it is possible denote items of interest in a space. This package is built on top of the [apriltag module](../../interbotix_perception_toolbox/interbotix_perception_modules/src/interbotix_perception_modules/apriltag.py) from the [interbotix_perception_modules package](../../interbotix_perception_toolbox/interbotix_perception_modules).
 
